@@ -1,0 +1,6 @@
+CREATE TABLE "items" (
+    "number" TEXT NOT NULL,
+    "item" TEXT NOT NULL,
+    "status" TEXT NOT NULL
+    PRIMARY KEY("number")
+);
